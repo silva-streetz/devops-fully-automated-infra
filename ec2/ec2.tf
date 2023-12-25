@@ -1,7 +1,6 @@
 variable "name" {
   type        = string
-  description = "name tag value"
-}
+  description = "name tag value}
 
 variable "tags" {
   type        = map(any)
